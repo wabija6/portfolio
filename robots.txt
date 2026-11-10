@@ -5,7 +5,6 @@ Allow: /
 Allow: /index.html
 Allow: /about.html
 Allow: /projects.html
-Allow: /blog.html
 Allow: /contact.html
 
 # Disallow backend files from being indexed
@@ -14,7 +13,4 @@ Disallow: /css/
 Disallow: /js/
 
 # Sitemap location
-Sitemap: https://wabijabesa.com/sitemap.xml
-
-# Crawl delay to be respectful to the server
-Crawl-delay: 5
+Sitemap: https://wabija6.github.io/portfolio/sitemap.xml
